@@ -73,5 +73,5 @@ crear_buffer <- function() {
   print(paste("El archivo buffer se ha guardado en:", carpeta_salida))
 }
 
-# Llamado de la función para generar el buffer al compilar el código
+# Llamado de la función
 crear_buffer()
